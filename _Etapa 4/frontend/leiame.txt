@@ -1,0 +1,3 @@
+Essa etapa não tem frontend. É apenas para ver o Express funcionando, com mensagens básicas. 
+
+Testar no Postman.
