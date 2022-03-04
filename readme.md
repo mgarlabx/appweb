@@ -193,11 +193,11 @@ Essa etapa introduz o **Bootstrap**, que é um framework para front-end de aplic
 
 ### Se quiser ir além...
 
-Conheça mais sobre o Bootstrap em:[ https://getbootstrap.com/](https://getbootstrap.com/). 
+Conheça mais sobre o Bootstrap em:[https://getbootstrap.com/](https://getbootstrap.com/). 
 
 Baixe e teste temas prontos do Bootstrap em:  
-[https://startbootstrap.com/]()  
-[https://bootstrapmade.com/]()  
-[https://themefisher.com/](). 
+[https://startbootstrap.com/](https://startbootstrap.com/)  
+[https://bootstrapmade.com/](https://bootstrapmade.com/)  
+[https://themefisher.com/](https://themefisher.com/)
 
 
